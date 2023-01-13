@@ -9,11 +9,20 @@
 - deberta-v2-xlarge
 
 ## Main methods that worked
+- Resolve encoding error
+- add BERTopic text
+- MultilabelStratifiedGroupKFold
 - Pooler Output
   - Last Hedden State Output
     -  Mean Pooling
   - Hidden Layeers Output
     - CLS Layer Embeddings
+    - Attention Pooling
+- Layer Reinitializing
+- Mixout
+- Multi-sample dropout
+- Adversarial training (FGM)
+  - [paper](https://arxiv.org/pdf/1710.06081.pdf)
 
 
 
