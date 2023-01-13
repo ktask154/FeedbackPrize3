@@ -11,9 +11,9 @@
 ## Main methods that worked
 - Pooler Output
   - Last Hedden State Output
-   -  Mean Pooling
+    -  Mean Pooling
   - Hidden Layeers Output
-   - CLS Layer Embeddings
+    - CLS Layer Embeddings
 
 
 
