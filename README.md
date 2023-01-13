@@ -8,3 +8,11 @@
 
 ・deberta-v2-xlarge
 
+
+
+## Final Result
+CV : 0.445740
+
+Public LB : 0.438067
+
+Private LB : 0.436347
