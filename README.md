@@ -9,6 +9,11 @@
 - deberta-v2-xlarge
 
 ## Main methods that worked
+- Pooler Output
+  - Last Hedden State Output
+   -  Mean Pooling
+  - Hidden Layeers Output
+   - CLS Layer Embeddings
 
 
 
