@@ -1,4 +1,11 @@
-# FeedbackPrize3  158(/2655)th solution
+# FeedbackPrize3
+
+## Task
+8~12年生の英語学習者(ELL)の言語能力を評価する。ELLによって書かれたエッセイのデータセットを利用。エッセイは cohesion, syntax, vocabulary, phraseology, grammar, conventions の6つの尺度によって採点される。
+
+### 評価関数
+
+
 ## Models
 - deberta-v3-base
 
@@ -52,8 +59,7 @@
 
 
 ## Final Result
+158 / 2655  位 
 CV : 0.445740
-
 Public LB : 0.438067
-
 Private LB : 0.436347
