@@ -32,7 +32,9 @@
     - Attention Pooling
 - Layer Reinitialization
 - Mixout Regularization
+  - [paper](https://arxiv.org/abs/1909.11299)
 - Multi-sample dropout
+  - [paper](https://arxiv.org/abs/1905.09788)
 - Grouped-LLRD (Layer Wise Learning Rate Decay)
 - Pre-trained Weight Decay
 - Adversarial training (FGM)
